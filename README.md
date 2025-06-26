@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Portfolio
 
 🚀 个人前端作品集，基于 Next.js 15、React 19 和 Tailwind CSS 4 构建。  
@@ -48,3 +49,7 @@ npm run dev
 npm run build
 npm start
 ```
+=======
+# next-portfolio
+🚀 个人前端作品集，基于 Next.js 15、React 19 和 Tailwind CSS 4 构建，响应式设计，支持动画与现代交互，适合展示个人技能与项目。
+>>>>>>> 2ca905418bbaeb096927e712943e1fbf88ef55a6
