@@ -145,3 +145,8 @@
 .animation-duration-30 {
   animation-duration: 30s;
 }
+
+html,
+body {
+  scroll-behavior: smooth;
+}
